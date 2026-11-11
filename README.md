@@ -10,3 +10,5 @@ Currently, it only supports **NVIDIA GPUs**. Users with NVIDIA GPUs who are inte
 If you wish to contribute to this project, please send your GPU model and specific benchmark scores via email to **ausnake@outlook.com**. 
 
 **Integrity First:** As an open-source project, we kindly ask you to ensure the authenticity of your benchmark data when submitting it. Thank you for your support!
+
+### If you find any issues, feel free to open an Issue. If you like this project, consider giving us a Star ⭐
